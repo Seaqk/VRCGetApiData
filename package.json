@@ -32,7 +32,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Luneuh/VRCGetApiData.git"
+    "url": "git+https://github.com/Seaqk/VRCGetApiData.git"
   },
   "keywords": [
     "scrape",
@@ -51,12 +51,12 @@
     "express",
     "axios"
   ],
-  "author": "Luneuh",
+  "author": "Seaqk",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Luneuh/VRCGetApiData/issues"
+    "url": "https://github.com/Seaqk/VRCGetApiData/issues"
   },
-  "homepage": "https://github.com/Luneuh/VRCGetApiData#readme",
+  "homepage": "https://github.com/Seaqk/VRCGetApiData#readme",
   "dependencies": {
     "@types/express": "^4.17.21",
     "@types/node": "^22.5.0",
