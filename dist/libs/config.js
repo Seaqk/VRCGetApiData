@@ -12,7 +12,7 @@ exports.cfg = {
     },
     data_folder: "data",
     web_api: {
-        redirect404: "https://github.com/Nuiqka/VRCGetApiData",
+        redirect404: "https://github.com/Seashix/VRCGetApiData",
         errorServer: "An internal server error has occurred. Please try again later.",
         groupFeature: "Group feature is disabled",
     },
