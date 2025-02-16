@@ -1,29 +1,29 @@
 <div align="center" id="top"> 
-  <img src="https://avatars.githubusercontent.com/u/169302941?s=80" alt="Seashix Github Avatar" draggable="false" />
+  <img src="https://avatars.githubusercontent.com/u/169302941?s=80" alt="Tenqah's Github Avatar" draggable="false" />
 </div>
 
 <div align="center">
   <h1>
-    <img alt="GitHub package.json version" src="https://img.shields.io/github/package-json/v/Seashix/VRCGetApiData?label=VRC Get Api Data&color=white" width="400" draggable="false" />
+    <img alt="GitHub package.json version" src="https://img.shields.io/github/package-json/v/tenqah/VRCGetApiData?label=VRC Get Api Data&color=white" width="400" draggable="false" />
   </h1>
 </div>
 
 <p align="center">
-  <a href="https://github.com/search?q=repo%3ASeashix%2FVRCGetApiData+owner%3ASeashix+NOT+path%3A%2F%5E%5C.github%5C%2F%2F+NOT+path%3A%2F%5E%5Cdist%5C%2F%2F+NOT+language%3A%22JSON+with+Comments%22+NOT+language%3AText+NOT+language%3A%22Git+Attributes%22+NOT+language%3AMarkdown&type=code" title="See the Used Language in Src" rel="noopener" target="_blank">
-    <img alt="Github top language" src="https://img.shields.io/github/languages/top/Seashix/VRCGetApiData?color=white" draggable="false" />
+  <a href="https://github.com/search?q=repo%3Atenqah%2FVRCGetApiData+owner%3Atenqah+NOT+path%3A%2F%5E%5C.github%5C%2F%2F+NOT+path%3A%2F%5E%5Cdist%5C%2F%2F+NOT+language%3A%22JSON+with+Comments%22+NOT+language%3AText+NOT+language%3A%22Git+Attributes%22+NOT+language%3AMarkdown&type=code" title="See the Used Language in Src" rel="noopener" target="_blank">
+    <img alt="Github top language" src="https://img.shields.io/github/languages/top/tenqah/VRCGetApiData?color=white" draggable="false" />
   </a>
   <span>
-    <img alt="Repository size" src="https://img.shields.io/github/repo-size/Seashix/VRCGetApiData?color=white" draggable="false" />
+    <img alt="Repository size" src="https://img.shields.io/github/repo-size/tenqah/VRCGetApiData?color=white" draggable="false" />
   </span>
-  <a href="https://github.com/Seashix/VRCGetApiData/graphs/contributors" title="See the contributors" rel="noopener" target="_blank">
-    <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Seashix/VRCGetApiData?color=white">
+  <a href="https://github.com/tenqah/VRCGetApiData/graphs/contributors" title="See the contributors" rel="noopener" target="_blank">
+    <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/tenqah/VRCGetApiData?color=white">
   </a>
   <br />
-  <a href="https://github.com/Seashix/VRCGetApiData/graphs/commit-activity" title="See the Commit Activity" rel="noopener" target="_blank">
-    <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/Seashix/VRCGetApiData?color=white" draggable="false" />
+  <a href="https://github.com/tenqah/VRCGetApiData/graphs/commit-activity" title="See the Commit Activity" rel="noopener" target="_blank">
+    <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/tenqah/VRCGetApiData?color=white" draggable="false" />
   </a>
-  <a href="https://github.com/Seashix/VRCGetApiData/graphs/traffic" title="See the Graphs Traffic" rel="noopener" target="_blank">
-    <img alt="GitHub viewer counter" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FSeashix%2FVRCGetApiData.json&color=white" />
+  <a href="https://github.com/tenqah/VRCGetApiData/graphs/traffic" title="See the Graphs Traffic" rel="noopener" target="_blank">
+    <img alt="GitHub viewer counter" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Ftenqah%2FVRCGetApiData.json&color=white" />
   </a>
 </p>
 
@@ -38,7 +38,7 @@
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/Seashix" target="_blank">Author</a>
+  <a href="https://github.com/tenqah" target="_blank">Author</a>
 </p>
 
 <br>
@@ -88,7 +88,7 @@ NICKNAME=YourUsernameUsedInTheCreation;
 PASSWORD=IfYouNeedToNotRefillAllTimeIsOptional;
 USER_ID=usr_YOURIDVRCHAT;
 GROUP_ID=grp_YOURGROUPID;
-USER_AGENT=EXAMPLE (https://github.com/Seashix/VRCGetApiData)
+USER_AGENT=EXAMPLE (https://github.com/tenqah/VRCGetApiData)
 PORT=IfYouWantToChangeTheDefaultWebAPIPort;
 ```
 
@@ -96,7 +96,7 @@ PORT=IfYouWantToChangeTheDefaultWebAPIPort;
 
 ```bash
 # Clone this project
-$ git clone https://github.com/Seashix/VRCGetApiData
+$ git clone https://github.com/tenqah/VRCGetApiData
 
 # Access
 $ cd VRCGetApiData
@@ -114,7 +114,7 @@ $ npm run start
 ## :memo: License
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE) file. <br>
-Made with :heart: by <a href="https://github.com/Seashix" target="_blank">Seashix</a>
+Made with :heart: by <a href="https://redirect.tenqah.com/github" target="_blank">Tenqah</a>
 
 &#xa0;
 
